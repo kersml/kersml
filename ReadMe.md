@@ -7,7 +7,7 @@ IT Problem-Solver and Computer Programmer
 I have a BS in Computer Information Systems from the University of South Carolina. My pinned repositories showcase design patterns I have experience with.
 
 * 🌍  I'm based in Columbia, SC
-* 🖥️  See my profile on [LinkedIn](https://www.linkedin.com/in/miller-kershaw/)
+* 🖥️  See my profile on [LinkedIn](https://www.linkedin.com/in/miller-kershaw/) or [LeetCode](https://leetcode.com/millerkersh/)
 * ✉️  You can contact me at [millerkersh@gmail.com](mailto:millerkersh@gmail.com)
 
 ### Skills
